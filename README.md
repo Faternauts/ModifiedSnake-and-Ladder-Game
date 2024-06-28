@@ -10,9 +10,9 @@ Proyek ini mengimplementasikan permainan Ular Tangga (Snake and Ladder) mengguna
 - Implementasi Soundeffect
   
 ## Struktur Folder
-src: Berisi file-file kode sumber.
-lib: Menyimpan dependensi eksternal, jika ada.
-bin: Tempat output kompilasi disimpan.
+- `src`: Berisi file-file kode sumber.
+- `lib`: Menyimpan dependensi eksternal, jika ada.
+- `bin`: Tempat output kompilasi disimpan.
 
 ## Memulai
 Untuk memulai proyek ini di Visual Studio Code:
